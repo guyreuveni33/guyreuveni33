@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Guy</h1>
-<h3 align="left">A passionate frontend developer from Israel currently a third year student at Bar-Ilan University, Bachelor of Science in Computer Science</h3>
+<h3 align="left">A passionate developer from Israel currently a third year student at Bar-Ilan University, Bachelor of Science in Computer Science</h3>
 
 <img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
